@@ -5,11 +5,10 @@
   проект с открытым исходным кодом"
 
 
+#гольф #детскаяигра #3D #ThreeJS #обучение #развитие #моторика #логика #antiAI #добрыеигры #длядетей #развлекательныеигры #познавательныеигры  html5-game, three-js, kids-game, educational, webgl, mini-golf, anti-ai, offline-ready, glassmorphism
 
-  html5-game, three-js, kids-game, educational, webgl, mini-golf, anti-ai, offline-ready, glassmorphism
 
-
-  # 🏌️ Антит ИИ Гольф 3D
+  # 🏌️ Антит ИИ Гольф  для Детей
 
 Безопасная, развивающая 3D-игра в гольф, созданная специально для детей. 
 
